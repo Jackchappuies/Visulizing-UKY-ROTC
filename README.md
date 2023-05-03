@@ -18,7 +18,8 @@ body {
   <section>
     <!-- 💡💡💡 Cesium map: paste embed code below -->
     <iframe title="Cesium area of interest" width="100%" height="576"
-      src="https://cesium.com/ion/stories/viewer/?id=0e1e55df-95ef-490b-9958-25d356d0378a" frameborder="0"
+      src="      src="https://ion.cesium.com/stories/viewer/?id=cf3a0397-c82c-49cd-bda9-499ef404abcf" frameborder="0"
+" frameborder="0"
       allow="fullscreen" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true">
     </iframe>
     <!-- 💡💡💡 Cesium map: paste embed code above -->
